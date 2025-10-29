@@ -1,0 +1,67 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background: #f7f9fc;
+  margin: 0;
+  padding: 20px;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+#items {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 15px;
+  margin-bottom: 30px;
+}
+
+.item-btn {
+  padding: 15px;
+  font-size: 16px;
+  border: none;
+  border-radius: 10px;
+  background: #4CAF50;
+  color: white;
+  cursor: pointer;
+  width: 150px;
+  height: 100px;
+  white-space: pre-line;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  transition: transform 0.2s, background 0.2s;
+}
+
+.item-btn:hover {
+  background: #43a047;
+  transform: scale(1.05);
+}
+
+#controls {
+  margin-bottom: 20px;
+}
+
+#controls button {
+  padding: 10px 20px;
+  margin: 0 10px;
+  border: none;
+  border-radius: 8px;
+  background: #e53935;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+#controls #undoBtn {
+  background: #2196f3;
+}
+
+#controls button:hover {
+  opacity: 0.9;
+}
+
+#total {
+  font-size: 24px;
+  font-weight: bold;
+}
