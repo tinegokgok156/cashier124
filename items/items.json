@@ -1,0 +1,22 @@
+[
+  { "name": "Seraphinex Tablets", "sku": "MED-001", "category": "Medicine", "price": 24.99 },
+  { "name": "Lunaclear Syrup", "sku": "MED-002", "category": "Medicine", "price": 12.50 },
+  { "name": "Neuroveil Capsules", "sku": "MED-003", "category": "Medicine", "price": 34.75 },
+  { "name": "Cardiovex Drops", "sku": "MED-004", "category": "Medicine", "price": 18.20 },
+  { "name": "Auralis Pain Relief Gel", "sku": "MED-005", "category": "Medicine", "price": 9.95 },
+  { "name": "Mythrex Cough Elixir", "sku": "MED-006", "category": "Medicine", "price": 14.10 },
+  { "name": "Zenflora Digestive Tabs", "sku": "MED-007", "category": "Medicine", "price": 16.85 },
+  { "name": "Oxythera Nasal Spray", "sku": "MED-008", "category": "Medicine", "price": 11.40 },
+  { "name": "Pulmovent Inhaler", "sku": "MED-009", "category": "Medicine", "price": 28.60 },
+  { "name": "Dermacyn Ointment", "sku": "MED-010", "category": "Medicine", "price": 8.70 },
+  { "name": "Virostat Rapid Relief", "sku": "MED-011", "category": "Medicine", "price": 22.00 },
+  { "name": "Nexacalm Sleep Aid", "sku": "MED-012", "category": "Medicine", "price": 19.90 },
+  { "name": "Glucovent Blood Balance", "sku": "MED-013", "category": "Medicine", "price": 31.25 },
+  { "name": "Heptorin Liver Support", "sku": "MED-014", "category": "Medicine", "price": 27.40 },
+  { "name": "Crysolin Fever Reducer", "sku": "MED-015", "category": "Medicine", "price": 10.50 },
+  { "name": "Energex Vital Capsules", "sku": "MED-016", "category": "Medicine", "price": 23.10 },
+  { "name": "Optivora Eye Drops", "sku": "MED-017", "category": "Medicine", "price": 13.45 },
+  { "name": "Nephramed Kidney Cleanse", "sku": "MED-018", "category": "Medicine", "price": 29.80 },
+  { "name": "Allerion Allergy Relief", "sku": "MED-019", "category": "Medicine", "price": 15.60 },
+  { "name": "Thermox Immune Boost", "sku": "MED-020", "category": "Medicine", "price": 26.70 }
+]
